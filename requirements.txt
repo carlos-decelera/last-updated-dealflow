@@ -1,4 +1,3 @@
-os
 fastapi
 httpx
-datetime
+uvicorn
