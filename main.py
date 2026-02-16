@@ -8,7 +8,7 @@ app = FastAPI()
 # CONFIGURACION INICIAL
 ATTIO_API_KEY = os.getenv("ATTIO_API_KEY")
 ATTRIBUTE_SLUG = "last_modified"
-DEALFLOW_ID = "c1b474e0-90cc-48c3-a98d-135da4a71db0"
+DEALFLOW_ID = "54265eb6-d53d-465d-ad35-4e823e135629"
 
 HEADERS = {
     "Authorization": f"Bearer {ATTIO_API_KEY}",
